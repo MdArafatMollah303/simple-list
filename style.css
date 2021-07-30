@@ -1,0 +1,8 @@
+.item-list{
+    cursor: pointer;
+    width: min-content;
+}
+.item-list:hover{
+    color: brown;
+    text-decoration: line-through;
+}
